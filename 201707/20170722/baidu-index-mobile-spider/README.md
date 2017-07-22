@@ -78,23 +78,23 @@
 
 ```json
 {   
-    "BDUSS":"EhTAjAJAAHAHUfAmRjlUYnZMVXlSfjB6SlpaSVFBQUFBJCQAAAAAAAAAAAEAAADHYadzvaG9obXEvOG5-8rWu%7EoAAAAAAAAAAA" //瞎编了一个
+    "BDUSS":"EhTAjAJAAHAHUfAmRjlUYnZMVXlSfjB6SlpaSVFBQUFBJCQAAAAAAAAAAAEAAADHYadzvaG9obXEvOG5-8rWu%7EoAAAAAAAAAAA//瞎编了一个" 
 }
 ```
 
 ###### params
 ```json
 {
-  "region": "0",//区域，对应于电脑版的省份、城市，但是手机版并没有这个选项，之后进行分析
-  "startdate": "20170715",//开始日期
-  "enddate": "20170721",//结束日期
-  "wordlist[0]": "关键词"//索要查询的关键词
+  "region": "0 //区域，对应于电脑版的省份、城市，但是手机版并没有这个选项，之后进行分析",
+  "startdate": "20170715 //开始日期",
+  "enddate": "20170721 //结束日期",
+  "wordlist[0]": "关键词 //索要查询的关键词"
 }
 ```
 ###### respond body
 ```json
 {
-  "status": 0,//状态码
+  "status": 0,
   "uniqid": "密钥请求id",
   "data": [
     {
@@ -120,15 +120,15 @@
 ###### params
 ```json
 {
-  "uniqid": "密钥请求id"//从 getIndex? 请求的 request body 中获得
+  "uniqid": "密钥请求id //从 getIndex? 请求的 request body 中获得"
 }
 ```
 ###### respond body
 
 ```json
 {
-  "status": 0,//状态吗
-  "data": "密钥"//长度为30，稍后会讲到
+  "status": 0,
+  "data": "密钥"
 }
 ```
 ## 分析加密算法
@@ -157,7 +157,7 @@ for (g = 0; g < u.data.length; g++) {
 
 稍加修改，使人能读，分析如下：
 
-用的是对称加密，主要就是从返回的密钥字符串构建密钥，很简单，前面说密钥字符串固定30个字符，将字符串前十五个后十五个分开，然后按照下标一一对应，如 1-16，2-17，15-30，然后构建对象，前十五个为键，后十五个为值
+用的是对称加密，主要就是从返回的密钥字符串构建密钥，很简单，密钥字符串固定30个字符，将字符串前十五个后十五个分开，然后按照下标一一对应，如 1-16，2-17，15-30，然后构建对象，前十五个为键，后十五个为值
 举个例子：
 
 
@@ -275,8 +275,9 @@ def get_date(start_date, end_date):
 ```
 
 ## 几个坑（待更）
-1.使用同一个 `uniqid` 请求密钥字符串，几秒后再次请求会变的！
-2.困了，先去睡了
+1. 使用同一个 `uniqid` 请求密钥字符串，几秒后再次请求会变的！
+
+2. 困了，先去睡了
 
 ## 结束
 分析到这里就结束了，最终的爬虫源码在文件夹里（是个半成品，写到半夜困的不行，之后有时间再重写一遍吧）。

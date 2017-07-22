@@ -13,10 +13,8 @@ def get_data(word, region):
     cookies = {
         # 'searchtips': '1',
         # 'bdshare_firstime': '1499529040366',
-        # 'BAIDUID': '7504D5DA00D90E90529203D878BE342B:FG=1',
         # 'cflag': '15%3A3',
-        # 'PSTM': '1500634833',
-        # 'BIDUPSID': '970F1C338BB3B8167636C4E87261D8FE',
+        # 'PSTM': '1500634833', 
         # 'CHKFORREG': '42b42c16859f2eff3b26bb5f3440777f',
         # 'BDRCVFR[M7pOaqtZgJR]': 'I67x6TjHwwYf0',
         # 'PSINO': '2',
