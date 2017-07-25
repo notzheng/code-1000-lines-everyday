@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Canvas</title>
+    <style>
+        .mycanvas {
+            display: block;
+            margin: 0 auto;
+        }
+
+        #title {
+            font-size: 50px;
+            padding-bottom: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+<h1 id="title">This is Xiao Jian Jian's canvas!</h1>
+
+<canvas id="drawing"  class="mycanvas">
+
+</canvas>
+
+<script>
+    var drawing = document.getElementById("drawing");
+    if (drawing.getContext){
+        var context = drawing.getContext("2d");
+        context.strokeStyle = "red";
+        context.fillStyle = "#0000ff";
+
+        context.strokeRect(10,10,50,50);
+        context.strokeRect(40,40,50,50);
+
+//        var imgURI = drawing.toDataURL("image/png");
+//
+//        var image = document.createElement("img");
+//        image.src=imgURI;
+//        document.body.appendChild(image);
+
+    }
+
+</script>
+</body>
+</html>
