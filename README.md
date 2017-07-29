@@ -4,8 +4,11 @@
 ## 201707
 > 我想你就站在，站在七月上～
 
+#### 20170729
+[CUG pk](./201707/20170729)
+
 #### 20170728
-[Zheng fang One Click To Pj](./201707/20170728)
+[Zhengfang One Click To Pj](./201707/20170728)
 
 #### 20170727
 [Cug Card API](./201707/20170727)
@@ -19,7 +22,7 @@
 #### 20170724
 变压器炸了，38°C 啊，好绝望
 
-[Some Java Script Exercise](./201707/20170724)
+[Some Javascript Exercise](./201707/20170724)
 
 #### 20170723
 [AppStore Comment Spider](./201707/20170723)
