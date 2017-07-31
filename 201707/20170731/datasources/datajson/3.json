@@ -1,0 +1,651 @@
+{
+  "Result": 200,
+  "DataFlagBitMap": 0,
+  "ConfigSettingInfo": {
+    "NumberList": [
+      {
+        "ItemType": 1,
+        "ItemName": "全部",
+        "StyleFlag": 2,
+        "ItemValue": "1668"
+      },
+      {
+        "ItemType": 2,
+        "ItemName": "推荐",
+        "StyleFlag": 1,
+        "ItemValue": "1506"
+      },
+      {
+        "ItemType": 3,
+        "ItemName": "待改善",
+        "StyleFlag": 3,
+        "ItemValue": "162"
+      },
+      {
+        "ItemType": 4,
+        "ItemName": "有图",
+        "StyleFlag": 2,
+        "ItemValue": "52"
+      },
+      {
+        "ItemType": 5,
+        "ItemName": "同类人",
+        "StyleFlag": 2,
+        "ItemValue": "0"
+      }
+    ],
+    "HotelCommentStatGroupList": [
+      {
+        "Items": [
+          {
+            "ItemName": "商务出差",
+            "ItemKey": "10",
+            "ItemValue": "978"
+          },
+          {
+            "ItemName": "朋友出游",
+            "ItemKey": "40",
+            "ItemValue": "141"
+          },
+          {
+            "ItemName": "情侣出游",
+            "ItemKey": "70",
+            "ItemValue": "127"
+          },
+          {
+            "ItemName": "家庭亲子",
+            "ItemKey": "30",
+            "ItemValue": "114"
+          },
+          {
+            "ItemName": "独自旅行",
+            "ItemKey": "50",
+            "ItemValue": "62"
+          },
+          {
+            "ItemName": "代人预订",
+            "ItemKey": "60",
+            "ItemValue": "63"
+          },
+          {
+            "ItemName": "其他",
+            "ItemKey": "0",
+            "ItemValue": "183"
+          }
+        ],
+        "Type": 1
+      },
+      {
+        "Type": 2
+      },
+      {
+        "Items": [
+          {
+            "ItemName": "复式大床房(无窗)",
+            "ItemValue": "1"
+          },
+          {
+            "ItemName": "高级房",
+            "ItemValue": "2"
+          },
+          {
+            "ItemName": "豪华套房",
+            "ItemValue": "17"
+          },
+          {
+            "ItemName": "特价房（无窗）",
+            "ItemValue": "24"
+          },
+          {
+            "ItemName": "大床房",
+            "ItemValue": "57"
+          },
+          {
+            "ItemName": "大床房（无窗）",
+            "ItemValue": "84"
+          },
+          {
+            "ItemName": "复式大床房",
+            "ItemValue": "129"
+          },
+          {
+            "ItemName": "豪华大床房",
+            "ItemValue": "143"
+          },
+          {
+            "ItemName": "特价房",
+            "ItemValue": "253"
+          },
+          {
+            "ItemName": "双床房",
+            "ItemValue": "293"
+          },
+          {
+            "ItemName": "高级大床房",
+            "ItemValue": "604"
+          }
+        ],
+        "Type": 3
+      },
+      {
+        "Items": [
+          {
+            "ItemCode": "0",
+            "itemType": 1,
+            "ItemName": "干净卫生",
+            "ItemKey": "110",
+            "ItemValue": "229"
+          },
+          {
+            "ItemCode": "0",
+            "itemType": 1,
+            "ItemName": "服务周到",
+            "ItemKey": "104",
+            "ItemValue": "181"
+          },
+          {
+            "ItemCode": "0",
+            "itemType": 1,
+            "ItemName": "位置好",
+            "ItemKey": "106",
+            "ItemValue": "144"
+          },
+          {
+            "ItemCode": "0",
+            "itemType": 1,
+            "ItemName": "环境不错",
+            "ItemKey": "108",
+            "ItemValue": "121"
+          },
+          {
+            "ItemCode": "0",
+            "itemType": 3,
+            "ItemName": "隔音差",
+            "ItemKey": "144",
+            "ItemValue": "35"
+          }
+        ],
+        "Type": 4
+      },
+      {}
+    ],
+    "CommentAvgPoint": {
+      "RaAtPoint": "4.500000",
+      "FaclPoint": "4.400000",
+      "ServicePoint": "4.500000",
+      "RatingPrice": "0.000000",
+      "RatPoint": "4.500000",
+      "CustPoint": "4.500000",
+      "RatingDining": "0.000000"
+    },
+    "CommentLevel": "很好"
+  },
+  "GroupList": [
+    {
+      "PageTotal": 167,
+      "PageUrl": "",
+      "GroupType": 1,
+      "DataType": 4,
+      "RecordCount": 40,
+      "GroupTitle": "",
+      "PageIndex": 1,
+      "CommentDetailList": [
+        {
+          "HighlightPosition": "",
+          "HotelId": 451069,
+          "NickName": "秋玄",
+          "IsNoRecommend": false,
+          "checkinDate": "20170606000000",
+          "CreateDate": "20170606234743",
+          "CommentId": 166599993,
+          "VipGrade": -1,
+          "ServicePoint": "5.000000",
+          "FaclPoint": "5.000000",
+          "RatPoint": "5.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 0,
+          "Content": "酒店环境不错，房间比较大也比较干净，下次出差还会考虑住这里。离八佰伴也很近，出行购物相对也比较方便。",
+          "ImageInfosList": [
+            {
+              "ImageItems": [
+                {
+                  "ImageType": 0,
+                  "Height": 0,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230o0h0000008rhc16DFA_C_550_412_Q50.jpg",
+                  "Width": 0
+                },
+                {
+                  "ImageType": 1,
+                  "Height": 150,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230o0h0000008rhc16DFA_W_280_280_R5_Q70.jpg",
+                  "Width": 150
+                },
+                {
+                  "ImageType": 2,
+                  "Height": 0,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230o0h0000008rhc16DFA_W_800_800_R5_Q70.jpg",
+                  "Width": 0
+                }
+              ],
+              "ImageCategory": 0,
+              "ImageID": 27342387,
+              "ImageTitle": ""
+            },
+            {
+              "ImageItems": [
+                {
+                  "ImageType": 0,
+                  "Height": 0,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/23080h0000008rfsl6C9E_C_550_412_Q50.jpg",
+                  "Width": 0
+                },
+                {
+                  "ImageType": 1,
+                  "Height": 150,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/23080h0000008rfsl6C9E_W_280_280_R5_Q70.jpg",
+                  "Width": 150
+                },
+                {
+                  "ImageType": 2,
+                  "Height": 0,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/23080h0000008rfsl6C9E_W_800_800_R5_Q70.jpg",
+                  "Width": 0
+                }
+              ],
+              "ImageCategory": 0,
+              "ImageID": 27342388,
+              "ImageTitle": ""
+            }
+          ],
+          "HotelName": "全季酒店(上海陆家嘴店)",
+          "Subject": "酒店点评",
+          "StatusRemark": "已认证",
+          "OrderId": 3807144504,
+          "SourceType": 1,
+          "CustPoint": "5.000000",
+          "IdentityText": "商务出差",
+          "Status": 1,
+          "RaAtPoint": "5.000000",
+          "UserCommentLevel": 2,
+          "HotelDataType": 1,
+          "RoomID": 807538,
+          "RoomName": "双床房"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 451069,
+          "NickName": "_M1892161****",
+          "IsNoRecommend": false,
+          "checkinDate": "20170415000000",
+          "CreateDate": "20170416091747",
+          "CommentId": 158595741,
+          "VipGrade": -1,
+          "ServicePoint": "5.000000",
+          "FaclPoint": "5.000000",
+          "RatPoint": "5.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 2,
+          "Content": "确实是非常棒的酒店，性价比很高，复式房很好，距离地铁站和八佰伴都不远，楼下有星巴克和酒吧，很方便的说。接待人员很热情，大大的赞。",
+          "ImageInfosList": [
+            {
+              "ImageItems": [
+                {
+                  "ImageType": 0,
+                  "Height": 1080,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230w0f0000007g2g1B972_C_550_412_Q50.jpg",
+                  "Width": 1920
+                },
+                {
+                  "ImageType": 1,
+                  "Height": 150,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230w0f0000007g2g1B972_W_280_280_R5_Q70.jpg",
+                  "Width": 150
+                },
+                {
+                  "ImageType": 2,
+                  "Height": 640,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230w0f0000007g2g1B972_W_800_800_R5_Q70.jpg",
+                  "Width": 1137
+                }
+              ],
+              "ImageCategory": 0,
+              "ImageID": 24807911,
+              "ImageTitle": ""
+            },
+            {
+              "ImageItems": [
+                {
+                  "ImageType": 0,
+                  "Height": 1920,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/23090f0000007g82g54EE_C_550_412_Q50.jpg",
+                  "Width": 1080
+                },
+                {
+                  "ImageType": 1,
+                  "Height": 150,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/23090f0000007g82g54EE_W_280_280_R5_Q70.jpg",
+                  "Width": 150
+                },
+                {
+                  "ImageType": 2,
+                  "Height": 640,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/23090f0000007g82g54EE_W_800_800_R5_Q70.jpg",
+                  "Width": 360
+                }
+              ],
+              "ImageCategory": 0,
+              "ImageID": 24807917,
+              "ImageTitle": ""
+            },
+            {
+              "ImageItems": [
+                {
+                  "ImageType": 0,
+                  "Height": 1080,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230p0f0000007g3d675CC_C_550_412_Q50.jpg",
+                  "Width": 1920
+                },
+                {
+                  "ImageType": 1,
+                  "Height": 150,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230p0f0000007g3d675CC_W_280_280_R5_Q70.jpg",
+                  "Width": 150
+                },
+                {
+                  "ImageType": 2,
+                  "Height": 640,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230p0f0000007g3d675CC_W_800_800_R5_Q70.jpg",
+                  "Width": 1137
+                }
+              ],
+              "ImageCategory": 0,
+              "ImageID": 24807921,
+              "ImageTitle": ""
+            },
+            {
+              "ImageItems": [
+                {
+                  "ImageType": 0,
+                  "Height": 1080,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230p0f0000007g3d8540E_C_550_412_Q50.jpg",
+                  "Width": 1920
+                },
+                {
+                  "ImageType": 1,
+                  "Height": 150,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230p0f0000007g3d8540E_W_280_280_R5_Q70.jpg",
+                  "Width": 150
+                },
+                {
+                  "ImageType": 2,
+                  "Height": 640,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230p0f0000007g3d8540E_W_800_800_R5_Q70.jpg",
+                  "Width": 1137
+                }
+              ],
+              "ImageCategory": 0,
+              "ImageID": 24807923,
+              "ImageTitle": ""
+            }
+          ],
+          "HotelName": "全季酒店(上海陆家嘴店)",
+          "Subject": "酒店点评",
+          "StatusRemark": "已认证",
+          "OrderId": 3534274488,
+          "SourceType": 1,
+          "CustPoint": "5.000000",
+          "IdentityText": "情侣出游",
+          "Status": 1,
+          "RaAtPoint": "5.000000",
+          "UserCommentLevel": 1,
+          "HotelDataType": 1,
+          "RoomID": 19523031,
+          "RoomName": "复式大床房"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 451069,
+          "NickName": "1365661****",
+          "IsNoRecommend": false,
+          "checkinDate": "20170606000000",
+          "CreateDate": "20170609215804",
+          "CommentId": 167058685,
+          "VipGrade": -1,
+          "ServicePoint": "5.000000",
+          "FaclPoint": "5.000000",
+          "RatPoint": "5.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 2,
+          "Content": "同事出差浦东的入住酒店，在浦东办事住宿不用跨江，地理位置蛮好的，不过价格真的是贵呀，全季哎，买到700多呀，而且那价格是蹭蹭往上涨，地段好没办法，好评吧",
+          "HotelName": "全季酒店(上海陆家嘴店)",
+          "Subject": "酒店点评",
+          "StatusRemark": "已认证",
+          "OrderId": 3805524664,
+          "SourceType": 1,
+          "CustPoint": "5.000000",
+          "IdentityText": "商务出差",
+          "Status": 1,
+          "RaAtPoint": "5.000000",
+          "UserCommentLevel": 3,
+          "HotelDataType": 1,
+          "RoomID": 807533,
+          "RoomName": "高级大床房"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 451069,
+          "NickName": "M12090****",
+          "IsNoRecommend": false,
+          "checkinDate": "20170615000000",
+          "CreateDate": "20170617184446",
+          "CommentId": 168198703,
+          "VipGrade": -1,
+          "ServicePoint": "4.000000",
+          "FaclPoint": "4.000000",
+          "RatPoint": "4.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 0,
+          "Content": "环境整洁，离陆家嘴比较近，周边有星巴克等  还可以。房间简单洁净，不过布局有点局促，对房间要求不高的可以入住",
+          "HotelName": "全季酒店(上海陆家嘴店)",
+          "Subject": "酒店点评",
+          "StatusRemark": "已认证",
+          "OrderId": 3921581658,
+          "SourceType": 1,
+          "CustPoint": "4.000000",
+          "IdentityText": "商务出差",
+          "Status": 1,
+          "RaAtPoint": "4.000000",
+          "UserCommentLevel": 2,
+          "HotelDataType": 1,
+          "RoomID": 19523028,
+          "RoomName": "大床房（无窗）"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 451069,
+          "NickName": "夏花冬雪",
+          "IsNoRecommend": false,
+          "checkinDate": "20170506000000",
+          "CreateDate": "20170510112913",
+          "CommentId": 162172901,
+          "VipGrade": -1,
+          "ServicePoint": "5.000000",
+          "FaclPoint": "5.000000",
+          "RatPoint": "5.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 1,
+          "Content": "强烈推荐，这个价格超值，前台服务也是相当专业，存东西，热食物服务都很热情，续住走了会员优惠价格还可以优惠，房间设施很新，屋内完全没有异味，可以用相当享受形容，再次推荐",
+          "HotelName": "全季酒店(上海陆家嘴店)",
+          "Subject": "酒店点评",
+          "StatusRemark": "已认证",
+          "OrderId": 3641242803,
+          "SourceType": 1,
+          "CustPoint": "5.000000",
+          "IdentityText": "商务出差",
+          "Status": 1,
+          "RaAtPoint": "5.000000",
+          "UserCommentLevel": 2,
+          "HotelDataType": 1,
+          "RoomID": 19523028,
+          "RoomName": "大床房（无窗）"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 451069,
+          "NickName": "_WeChat220286****",
+          "IsNoRecommend": false,
+          "checkinDate": "20170525000000",
+          "CreateDate": "20170616231713",
+          "CommentId": 168075539,
+          "VipGrade": -1,
+          "ServicePoint": "3.000000",
+          "FaclPoint": "3.000000",
+          "RatPoint": "4.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 0,
+          "Content": "酒店没什么服务，但是客服人员态度都挺好的。我一共开了三个房间，两个都没有窗户。虽然有说明，但是房间还是感觉很压抑。干净是干净的，但是整体感觉性价比很一般。",
+          "HotelName": "全季酒店(上海陆家嘴店)",
+          "Subject": "＂全季酒店（上海陆家嘴店）＂点评",
+          "StatusRemark": "已认证",
+          "OrderId": 3744911295,
+          "SourceType": 1,
+          "CustPoint": "3.500000",
+          "IdentityText": "朋友出游",
+          "Status": 1,
+          "RaAtPoint": "4.000000",
+          "UserCommentLevel": 1,
+          "HotelDataType": 1,
+          "RoomID": 19523028,
+          "RoomName": "大床房（无窗）"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 451069,
+          "NickName": "M13766****",
+          "IsNoRecommend": false,
+          "checkinDate": "20170425000000",
+          "CreateDate": "20170513221814",
+          "CommentId": 162904685,
+          "VipGrade": -1,
+          "ServicePoint": "5.000000",
+          "FaclPoint": "4.000000",
+          "RatPoint": "5.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 1,
+          "Content": "订的复式房，第一次住没有窗子的房间，第一天感觉很憋闷，第二天觉得好多了，不知道是不是适应了。入住时安排的房间很小，而且房间里的空调开了之后，有明显的电流声，再加上无窗的复式房间，当时觉得气都喘不上来了，找了酒店维修的人员看了之后说修不了，马上给我换房了。依然是无窗的复式，但是比第一次给我安排的房间大了一倍，明显不那么压抑了，但是还是不太适应。总之，没住过无窗房的朋友请慎重考虑。酒店负责客房的大叔特别好，特别亲切有礼貌，比前台的姑娘都强！",
+          "HotelName": "全季酒店(上海陆家嘴店)",
+          "Subject": "酒店点评",
+          "StatusRemark": "已认证",
+          "OrderId": 3587629907,
+          "SourceType": 1,
+          "CustPoint": "4.800000",
+          "IdentityText": "商务出差",
+          "Status": 1,
+          "RaAtPoint": "5.000000",
+          "UserCommentLevel": 1,
+          "HotelDataType": 1,
+          "RoomID": 19523031,
+          "RoomName": "复式大床房"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 451069,
+          "NickName": "_WB26858****",
+          "IsNoRecommend": false,
+          "checkinDate": "20170512000000",
+          "CreateDate": "20170515015444",
+          "CommentId": 163065114,
+          "VipGrade": -1,
+          "ServicePoint": "4.000000",
+          "FaclPoint": "3.000000",
+          "RatPoint": "3.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 0,
+          "Content": "一是酒店内部施工，早上晚上吵而且有味道不利于健康；二是酒店门市价比网上定更便宜，不知道网上定意义何在；三是酒店设施有问题，马桶噪音大而且持续时间长，晚上起来厕所后另一半肯定吵醒；四是酒店对面也在施工，就算白天也不安静。五是五百多的酒店只有一个内窗，空气不流通，离地铁站也远，走十几分钟，有行李就要命。过好几个马路天桥和地下通道。",
+          "HotelName": "全季酒店(上海陆家嘴店)",
+          "Subject": "酒店点评",
+          "StatusRemark": "已认证",
+          "OrderId": 3667820815,
+          "SourceType": 1,
+          "CustPoint": "3.500000",
+          "IdentityText": "情侣出游",
+          "Status": 1,
+          "RaAtPoint": "4.000000",
+          "UserCommentLevel": 1,
+          "HotelDataType": 1,
+          "RoomID": 807533,
+          "RoomName": "高级大床房"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 451069,
+          "NickName": "十年姬",
+          "IsNoRecommend": false,
+          "checkinDate": "20170429000000",
+          "CreateDate": "20170520175914",
+          "CommentId": 163959935,
+          "VipGrade": -1,
+          "ServicePoint": "5.000000",
+          "FaclPoint": "5.000000",
+          "RatPoint": "5.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 1,
+          "Content": "环境超级好，房间也很棒。因为提前定的，所以比当日便宜了点。房间干净环境舒适，周围也很清静。虽然离地铁站有点远，但是还算方便。",
+          "HotelName": "全季酒店(上海陆家嘴店)",
+          "Subject": "酒店点评",
+          "StatusRemark": "已认证",
+          "OrderId": 3561977779,
+          "SourceType": 1,
+          "CustPoint": "5.000000",
+          "IdentityText": "情侣出游",
+          "Status": 1,
+          "RaAtPoint": "5.000000",
+          "UserCommentLevel": 1,
+          "HotelDataType": 1,
+          "RoomID": 807533,
+          "RoomName": "高级大床房"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 451069,
+          "NickName": "_WeChat55150****",
+          "IsNoRecommend": false,
+          "checkinDate": "20170503000000",
+          "CreateDate": "20170505100714",
+          "CommentId": 161470299,
+          "VipGrade": -1,
+          "ServicePoint": "5.000000",
+          "FaclPoint": "5.000000",
+          "RatPoint": "5.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 0,
+          "Content": "位置很好，周围也有很多商业，房间很干净，推荐。\n\n日式风格的家具很素朴，整洁。唯一的不足是对面在建东西，靠窗可能有些炒",
+          "HotelName": "全季酒店(上海陆家嘴店)",
+          "Subject": "酒店点评",
+          "StatusRemark": "已认证",
+          "OrderId": 3623550978,
+          "SourceType": 1,
+          "CustPoint": "5.000000",
+          "IdentityText": "商务出差",
+          "Status": 1,
+          "RaAtPoint": "5.000000",
+          "UserCommentLevel": 1,
+          "HotelDataType": 1,
+          "RoomID": 19523028,
+          "RoomName": "大床房（无窗）"
+        }
+      ]
+    }
+  ],
+  "ResultMessage": "",
+  "head": {
+    "sauth": "",
+    "ResponseStatus": {
+      "Ack": 0,
+      "Timestamp": "2017-07-15 01:55:40"
+    },
+    "cid": "32001054710029034073",
+    "auth": ""
+  },
+  "ServerSharedData": "最新预订：3小时前"
+}

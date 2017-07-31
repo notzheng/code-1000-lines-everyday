@@ -1,0 +1,477 @@
+{
+  "Result": 200,
+  "DataFlagBitMap": 0,
+  "ConfigSettingInfo": {
+    "NumberList": [
+      {
+        "ItemType": 1,
+        "ItemName": "全部",
+        "StyleFlag": 2,
+        "ItemValue": "1637"
+      },
+      {
+        "ItemType": 2,
+        "ItemName": "推荐",
+        "StyleFlag": 1,
+        "ItemValue": "1572"
+      },
+      {
+        "ItemType": 3,
+        "ItemName": "待改善",
+        "StyleFlag": 3,
+        "ItemValue": "65"
+      },
+      {
+        "ItemType": 4,
+        "ItemName": "有图",
+        "StyleFlag": 2,
+        "ItemValue": "38"
+      },
+      {
+        "ItemType": 5,
+        "ItemName": "同类人",
+        "StyleFlag": 2,
+        "ItemValue": "0"
+      }
+    ],
+    "HotelCommentStatGroupList": [
+      {
+        "Items": [
+          {
+            "ItemName": "商务出差",
+            "ItemKey": "10",
+            "ItemValue": "932"
+          },
+          {
+            "ItemName": "朋友出游",
+            "ItemKey": "40",
+            "ItemValue": "101"
+          },
+          {
+            "ItemName": "情侣出游",
+            "ItemKey": "70",
+            "ItemValue": "62"
+          },
+          {
+            "ItemName": "家庭亲子",
+            "ItemKey": "30",
+            "ItemValue": "220"
+          },
+          {
+            "ItemName": "独自旅行",
+            "ItemKey": "50",
+            "ItemValue": "75"
+          },
+          {
+            "ItemName": "代人预订",
+            "ItemKey": "60",
+            "ItemValue": "92"
+          },
+          {
+            "ItemName": "其他",
+            "ItemKey": "0",
+            "ItemValue": "155"
+          }
+        ],
+        "Type": 1
+      },
+      {
+        "Type": 2
+      },
+      {
+        "Items": [
+          {
+            "ItemName": "高级套房",
+            "ItemValue": "5"
+          },
+          {
+            "ItemName": "豪华套房",
+            "ItemValue": "9"
+          },
+          {
+            "ItemName": "普通房(含早)",
+            "ItemValue": "85"
+          },
+          {
+            "ItemName": "高级房(含早)",
+            "ItemValue": "138"
+          },
+          {
+            "ItemName": "普通房",
+            "ItemValue": "517"
+          },
+          {
+            "ItemName": "高级房",
+            "ItemValue": "798"
+          }
+        ],
+        "Type": 3
+      },
+      {
+        "Items": [
+          {
+            "ItemCode": "0",
+            "itemType": 1,
+            "ItemName": "位置好",
+            "ItemKey": "106",
+            "ItemValue": "277"
+          },
+          {
+            "ItemCode": "0",
+            "itemType": 1,
+            "ItemName": "环境不错",
+            "ItemKey": "108",
+            "ItemValue": "191"
+          },
+          {
+            "ItemCode": "0",
+            "itemType": 1,
+            "ItemName": "很安静",
+            "ItemKey": "119",
+            "ItemValue": "179"
+          },
+          {
+            "ItemCode": "0",
+            "itemType": 1,
+            "ItemName": "交通方便",
+            "ItemKey": "117",
+            "ItemValue": "167"
+          },
+          {
+            "ItemCode": "0",
+            "itemType": 3,
+            "ItemName": "早餐简单",
+            "ItemKey": "116",
+            "ItemValue": "65"
+          }
+        ],
+        "Type": 4
+      },
+      {}
+    ],
+    "CommentAvgPoint": {
+      "RaAtPoint": "4.600000",
+      "FaclPoint": "4.000000",
+      "ServicePoint": "4.200000",
+      "RatingPrice": "0.000000",
+      "RatPoint": "4.300000",
+      "CustPoint": "4.300000",
+      "RatingDining": "0.000000"
+    },
+    "CommentLevel": "很好"
+  },
+  "GroupList": [
+    {
+      "PageTotal": 164,
+      "PageUrl": "",
+      "GroupType": 1,
+      "DataType": 4,
+      "RecordCount": 40,
+      "GroupTitle": "",
+      "PageIndex": 1,
+      "CommentDetailList": [
+        {
+          "HighlightPosition": "",
+          "HotelId": 436525,
+          "NickName": "300489****",
+          "IsNoRecommend": false,
+          "checkinDate": "20170710000000",
+          "CreateDate": "20170712222842",
+          "CommentId": 172103023,
+          "VipGrade": -1,
+          "ServicePoint": "4.000000",
+          "FaclPoint": "4.000000",
+          "RatPoint": "4.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 0,
+          "Content": "环境优美，地理位置好，交通方便，房间舒适卫生，服务人员很热情，乐于提供各种帮助，早餐比较差。设施很人性化，网络高速信号好。性价比不错，下次还要入住",
+          "HotelName": "上海南鹰饭店",
+          "Subject": "酒店点评",
+          "StatusRemark": "已认证",
+          "OrderId": 4039271973,
+          "SourceType": 1,
+          "CustPoint": "4.000000",
+          "IdentityText": "商务出差",
+          "Status": 1,
+          "RaAtPoint": "4.000000",
+          "UserCommentLevel": 3,
+          "HotelDataType": 1,
+          "RoomID": 752281,
+          "RoomName": "高级房"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 436525,
+          "NickName": "乐羽",
+          "IsNoRecommend": false,
+          "checkinDate": "20170708000000",
+          "CreateDate": "20170711202921",
+          "CommentId": 171927690,
+          "VipGrade": -1,
+          "ServicePoint": "5.000000",
+          "FaclPoint": "4.000000",
+          "RatPoint": "5.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 0,
+          "Content": "酒店很干净整洁，周边环境也不错，晚上挺安静的。离地铁站也挺近的，走路五分钟就到了。周边还有上海图书馆，宋庆龄故居可以去。",
+          "HotelName": "上海南鹰饭店",
+          "Subject": "酒店点评",
+          "StatusRemark": "已认证",
+          "OrderId": 3996905812,
+          "SourceType": 1,
+          "CustPoint": "4.800000",
+          "IdentityText": "家庭亲子",
+          "Status": 1,
+          "RaAtPoint": "5.000000",
+          "UserCommentLevel": 2,
+          "HotelDataType": 1,
+          "RoomID": 752281,
+          "RoomName": "高级房"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 436525,
+          "NickName": "zhihuanwang_hhy",
+          "IsNoRecommend": false,
+          "checkinDate": "20170616000000",
+          "CreateDate": "20170706202450",
+          "CommentId": 171070459,
+          "VipGrade": -1,
+          "ServicePoint": "5.000000",
+          "FaclPoint": "3.000000",
+          "RatPoint": "4.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 0,
+          "Content": "酒店老了，刚入住的时候房间还是有股潮湿的味道，不过，开一会空调就好多了。选择这家酒店是因为离我们要去的地方比较近，方便，图书馆也近，附近的几家餐饮也挺不错的。如果要求不高，还是不错的。",
+          "HotelName": "上海南鹰饭店",
+          "Subject": "酒店点评",
+          "StatusRemark": "已认证",
+          "OrderId": 3735519418,
+          "SourceType": 1,
+          "CustPoint": "4.300000",
+          "IdentityText": "家庭亲子",
+          "Status": 1,
+          "RaAtPoint": "5.000000",
+          "UserCommentLevel": 1,
+          "HotelDataType": 1,
+          "RoomID": 752281,
+          "RoomName": "高级房"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 436525,
+          "NickName": "M221916****",
+          "IsNoRecommend": false,
+          "checkinDate": "20170707000000",
+          "CreateDate": "20170709225424",
+          "CommentId": 171592583,
+          "VipGrade": -1,
+          "ServicePoint": "4.000000",
+          "FaclPoint": "4.000000",
+          "RatPoint": "5.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 0,
+          "Content": "吹风机不好，非常简陋的老款，手柄的地方会发热，双床房太少，下午两点多入住都没法选双床房，希望改进下，其它的都不错。",
+          "HotelName": "上海南鹰饭店",
+          "Subject": "酒店点评",
+          "StatusRemark": "已认证",
+          "OrderId": 4004950322,
+          "SourceType": 1,
+          "CustPoint": "4.500000",
+          "IdentityText": "朋友出游",
+          "Status": 1,
+          "RaAtPoint": "5.000000",
+          "UserCommentLevel": 1,
+          "HotelDataType": 1,
+          "RoomID": 752281,
+          "RoomName": "高级房"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 436525,
+          "NickName": "M5101****",
+          "IsNoRecommend": false,
+          "checkinDate": "20170630000000",
+          "CreateDate": "20170707171504",
+          "CommentId": 171249112,
+          "VipGrade": -1,
+          "ServicePoint": "3.000000",
+          "FaclPoint": "2.000000",
+          "RatPoint": "3.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 0,
+          "Content": "位置很好，不多远就是武康路，位于法租界。就是办理入住的时候前台服务不太好，最重要的是。额有点恶心。。住宿的第二天给浴盆放水洗澡的时候竟然放出来了条虫子！虫子！虫子！服务员说酒店一二楼是地下水，3楼及以上用的是楼顶的储水罐用水，储水罐里面可能不干净！想想前一天还用酒店的水烧水喝，恶心急了。卫生一般。",
+          "HotelName": "上海南鹰饭店",
+          "Subject": "＂上海南鹰饭店＂点评",
+          "StatusRemark": "已认证",
+          "OrderId": 3971554351,
+          "SourceType": 1,
+          "CustPoint": "3.300000",
+          "IdentityText": "家庭亲子",
+          "Status": 1,
+          "RaAtPoint": "5.000000",
+          "UserCommentLevel": 2,
+          "HotelDataType": 1,
+          "RoomID": 752281,
+          "RoomName": "高级房"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 436525,
+          "NickName": "二宝家的大宝",
+          "IsNoRecommend": false,
+          "checkinDate": "20170705000000",
+          "CreateDate": "20170709000427",
+          "CommentId": 171461866,
+          "VipGrade": -1,
+          "ServicePoint": "3.000000",
+          "FaclPoint": "1.000000",
+          "RatPoint": "3.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 0,
+          "Content": "房间：地毯又旧又脏，房间之间基本不隔音；早餐：环境和餐食都太差了。服务：借来的电熨斗都是坏的，服务员态度也不友善。总之，这家酒店除了地理位置不错外，没有出彩的地方。不会推荐。",
+          "HotelName": "上海南鹰饭店",
+          "Subject": "酒店点评",
+          "StatusRemark": "已认证",
+          "OrderId": 3996554483,
+          "SourceType": 1,
+          "CustPoint": "3.000000",
+          "IdentityText": "商务出差",
+          "Status": 1,
+          "RaAtPoint": "5.000000",
+          "UserCommentLevel": 3,
+          "HotelDataType": 1,
+          "RoomID": 752281,
+          "RoomName": "高级房"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 436525,
+          "NickName": "simonehsu",
+          "IsNoRecommend": false,
+          "checkinDate": "20170603000000",
+          "CreateDate": "20170624111054",
+          "CommentId": 169213061,
+          "VipGrade": -1,
+          "ServicePoint": "4.000000",
+          "FaclPoint": "4.000000",
+          "RatPoint": "4.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 0,
+          "Content": "整体来说，可以的，经常介绍来上海的朋友住这里，附近的环境很优雅，旧法租界的风格令人舒畅，饭店距离地铁不远，饭店内部干净。",
+          "HotelName": "上海南鹰饭店",
+          "Subject": "＂上海南鹰饭店＂点评",
+          "StatusRemark": "已认证",
+          "OrderId": 3786437749,
+          "SourceType": 1,
+          "CustPoint": "4.000000",
+          "IdentityText": "朋友出游",
+          "Status": 1,
+          "RaAtPoint": "4.000000",
+          "UserCommentLevel": 1,
+          "HotelDataType": 1,
+          "RoomID": 752281,
+          "RoomName": "高级房"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 436525,
+          "NickName": "KnightSH",
+          "IsNoRecommend": false,
+          "checkinDate": "20170529000000",
+          "CreateDate": "20170623132917",
+          "CommentId": 169079077,
+          "VipGrade": -1,
+          "ServicePoint": "5.000000",
+          "FaclPoint": "5.000000",
+          "RatPoint": "5.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 0,
+          "Content": "十多年来每一次去上海都要住的酒店，交通方便，去机场高铁地铁站便利店都只有百米左右。周围治安环境很好，喜欢电车的马路对面就可以搭乘，酒店都是商务客人居多，不嘲杂，干干净净的。前台客房服务很好都尽量满足客人的需求，行李存放也挺方便！是很有特色很质朴的传统酒店。",
+          "HotelName": "上海南鹰饭店",
+          "Subject": "酒店点评",
+          "StatusRemark": "已认证",
+          "OrderId": 3738544365,
+          "SourceType": 1,
+          "CustPoint": "5.000000",
+          "IdentityText": "商务出差",
+          "Status": 1,
+          "RaAtPoint": "5.000000",
+          "UserCommentLevel": 1,
+          "HotelDataType": 1,
+          "RoomID": 752281,
+          "RoomName": "高级房"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 436525,
+          "NickName": "ranbi****",
+          "IsNoRecommend": false,
+          "checkinDate": "20170518000000",
+          "CreateDate": "20170519205837",
+          "CommentId": 163830137,
+          "VipGrade": -1,
+          "ServicePoint": "4.000000",
+          "FaclPoint": "4.000000",
+          "RatPoint": "5.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 0,
+          "Content": "在淮海路上，这个地段的价位还算实在，周边街道安静，老牌饭店，装修有些年份，胜在干净、整洁，从前一晚噩梦般的快捷酒店到这里简直像上天了的感觉，果断续住首选",
+          "HotelName": "上海南鹰饭店",
+          "Subject": "酒店点评",
+          "StatusRemark": "已认证",
+          "OrderId": 3695171037,
+          "SourceType": 1,
+          "CustPoint": "4.500000",
+          "IdentityText": "商务出差",
+          "Status": 1,
+          "RaAtPoint": "5.000000",
+          "UserCommentLevel": 2,
+          "HotelDataType": 1,
+          "RoomID": 752281,
+          "RoomName": "高级房"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 436525,
+          "NickName": "_WeChat60890****",
+          "IsNoRecommend": false,
+          "checkinDate": "20170630000000",
+          "CreateDate": "20170702222538",
+          "CommentId": 170489265,
+          "VipGrade": -1,
+          "ServicePoint": "5.000000",
+          "FaclPoint": "4.000000",
+          "RatPoint": "5.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 0,
+          "Content": "酒店设施比较老，但是位置很棒。距离武康路，宋庆龄故居很近。过去是部队招待所。地段黄金。",
+          "HotelName": "上海南鹰饭店",
+          "Subject": "酒店点评",
+          "StatusRemark": "已认证",
+          "OrderId": 3983434845,
+          "SourceType": 1,
+          "CustPoint": "4.800000",
+          "IdentityText": "商务出差",
+          "Status": 1,
+          "RaAtPoint": "5.000000",
+          "UserCommentLevel": 1,
+          "HotelDataType": 1,
+          "RoomID": 752281,
+          "RoomName": "高级房"
+        }
+      ]
+    }
+  ],
+  "ResultMessage": "",
+  "head": {
+    "sauth": "",
+    "ResponseStatus": {
+      "Ack": 0,
+      "Timestamp": "2017-07-15 01:54:57"
+    },
+    "cid": "32001054710029034073",
+    "auth": ""
+  },
+  "ServerSharedData": "最新预订：2小时前"
+}

@@ -1,0 +1,776 @@
+{
+  "Result": 200,
+  "DataFlagBitMap": 0,
+  "ConfigSettingInfo": {
+    "NumberList": [
+      {
+        "ItemType": 1,
+        "ItemName": "全部",
+        "StyleFlag": 2,
+        "ItemValue": "6563"
+      },
+      {
+        "ItemType": 2,
+        "ItemName": "推荐",
+        "StyleFlag": 1,
+        "ItemValue": "6473"
+      },
+      {
+        "ItemType": 3,
+        "ItemName": "待改善",
+        "StyleFlag": 3,
+        "ItemValue": "90"
+      },
+      {
+        "ItemType": 4,
+        "ItemName": "有图",
+        "StyleFlag": 2,
+        "ItemValue": "221"
+      },
+      {
+        "ItemType": 5,
+        "ItemName": "同类人",
+        "StyleFlag": 2,
+        "ItemValue": "0"
+      }
+    ],
+    "HotelCommentStatGroupList": [
+      {
+        "Items": [
+          {
+            "ItemName": "商务出差",
+            "ItemKey": "10",
+            "ItemValue": "3696"
+          },
+          {
+            "ItemName": "朋友出游",
+            "ItemKey": "40",
+            "ItemValue": "620"
+          },
+          {
+            "ItemName": "情侣出游",
+            "ItemKey": "70",
+            "ItemValue": "896"
+          },
+          {
+            "ItemName": "家庭亲子",
+            "ItemKey": "30",
+            "ItemValue": "486"
+          },
+          {
+            "ItemName": "独自旅行",
+            "ItemKey": "50",
+            "ItemValue": "295"
+          },
+          {
+            "ItemName": "代人预订",
+            "ItemKey": "60",
+            "ItemValue": "225"
+          },
+          {
+            "ItemName": "其他",
+            "ItemKey": "0",
+            "ItemValue": "345"
+          }
+        ],
+        "Type": 1
+      },
+      {
+        "Type": 2
+      },
+      {
+        "Items": [
+          {
+            "ItemName": "双床房",
+            "ItemValue": "65"
+          },
+          {
+            "ItemName": "促销双床房",
+            "ItemValue": "95"
+          },
+          {
+            "ItemName": "精选套房",
+            "ItemValue": "98"
+          },
+          {
+            "ItemName": "精选大床房",
+            "ItemValue": "156"
+          },
+          {
+            "ItemName": "精选豪华大床房",
+            "ItemValue": "170"
+          },
+          {
+            "ItemName": "商务双床房",
+            "ItemValue": "463"
+          },
+          {
+            "ItemName": "促销大床房",
+            "ItemValue": "713"
+          },
+          {
+            "ItemName": "榻榻米大床房",
+            "ItemValue": "1131"
+          },
+          {
+            "ItemName": "商务大床房",
+            "ItemValue": "1386"
+          },
+          {
+            "ItemName": "大床房",
+            "ItemValue": "2077"
+          }
+        ],
+        "Type": 3
+      },
+      {
+        "Items": [
+          {
+            "ItemCode": "0",
+            "itemType": 1,
+            "ItemName": "服务周到",
+            "ItemKey": "104",
+            "ItemValue": "1121"
+          },
+          {
+            "ItemCode": "0",
+            "itemType": 1,
+            "ItemName": "环境不错",
+            "ItemKey": "108",
+            "ItemValue": "740"
+          },
+          {
+            "ItemCode": "0",
+            "itemType": 1,
+            "ItemName": "房间很好",
+            "ItemKey": "100",
+            "ItemValue": "689"
+          },
+          {
+            "ItemCode": "0",
+            "itemType": 1,
+            "ItemName": "前台热情",
+            "ItemKey": "124",
+            "ItemValue": "529"
+          },
+          {
+            "ItemCode": "0",
+            "itemType": 1,
+            "ItemName": "离地铁近",
+            "ItemKey": "122",
+            "ItemValue": "212"
+          }
+        ],
+        "Type": 4
+      },
+      {}
+    ],
+    "CommentAvgPoint": {
+      "RaAtPoint": "4.800000",
+      "FaclPoint": "4.800000",
+      "ServicePoint": "4.800000",
+      "RatingPrice": "0.000000",
+      "RatPoint": "4.800000",
+      "CustPoint": "4.800000",
+      "RatingDining": "0.000000"
+    },
+    "CommentLevel": "超棒"
+  },
+  "GroupList": [
+    {
+      "PageTotal": 657,
+      "PageUrl": "",
+      "GroupType": 1,
+      "DataType": 4,
+      "RecordCount": 40,
+      "GroupTitle": "",
+      "PageIndex": 1,
+      "CommentDetailList": [
+        {
+          "HighlightPosition": "",
+          "HotelId": 533888,
+          "NickName": "M21640****",
+          "IsNoRecommend": false,
+          "checkinDate": "20170601000000",
+          "CreateDate": "20170601144638",
+          "CommentId": 165820833,
+          "VipGrade": -1,
+          "ServicePoint": "5.000000",
+          "FaclPoint": "5.000000",
+          "RatPoint": "4.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 4,
+          "Content": "携程订，显示389,到店399，携程好坑。但酒店设施很全，商务大床房，房间挺大的，东西全，服务人员服务好，而且酒店不靠近大马路，相对安静，靠近地铁口1号12号线，漕宝路站，挺方便的，满意。",
+          "ImageInfosList": [
+            {
+              "ImageItems": [
+                {
+                  "ImageType": 0,
+                  "Height": 3024,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230i0h0000008o8sk13DE_C_550_412_Q50.jpg",
+                  "Width": 4032
+                },
+                {
+                  "ImageType": 1,
+                  "Height": 150,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230i0h0000008o8sk13DE_W_280_280_R5_Q70.jpg",
+                  "Width": 150
+                },
+                {
+                  "ImageType": 2,
+                  "Height": 640,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230i0h0000008o8sk13DE_W_800_800_R5_Q70.jpg",
+                  "Width": 853
+                }
+              ],
+              "ImageCategory": 0,
+              "ImageID": 27103828,
+              "ImageTitle": ""
+            },
+            {
+              "ImageItems": [
+                {
+                  "ImageType": 0,
+                  "Height": 3024,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230l0h0000008orhaF4FA_C_550_412_Q50.jpg",
+                  "Width": 4032
+                },
+                {
+                  "ImageType": 1,
+                  "Height": 150,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230l0h0000008orhaF4FA_W_280_280_R5_Q70.jpg",
+                  "Width": 150
+                },
+                {
+                  "ImageType": 2,
+                  "Height": 640,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230l0h0000008orhaF4FA_W_800_800_R5_Q70.jpg",
+                  "Width": 853
+                }
+              ],
+              "ImageCategory": 0,
+              "ImageID": 27103829,
+              "ImageTitle": ""
+            },
+            {
+              "ImageItems": [
+                {
+                  "ImageType": 0,
+                  "Height": 3024,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/23080h0000008o8w6428C_C_550_412_Q50.jpg",
+                  "Width": 4032
+                },
+                {
+                  "ImageType": 1,
+                  "Height": 150,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/23080h0000008o8w6428C_W_280_280_R5_Q70.jpg",
+                  "Width": 150
+                },
+                {
+                  "ImageType": 2,
+                  "Height": 640,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/23080h0000008o8w6428C_W_800_800_R5_Q70.jpg",
+                  "Width": 853
+                }
+              ],
+              "ImageCategory": 0,
+              "ImageID": 27103830,
+              "ImageTitle": ""
+            }
+          ],
+          "HotelName": "桔子酒店·精选(上海光大会展中心店)",
+          "Subject": "酒店点评",
+          "StatusRemark": "已认证",
+          "OrderId": 3781252379,
+          "SourceType": 1,
+          "CustPoint": "4.800000",
+          "IdentityText": "商务出差",
+          "Status": 1,
+          "RaAtPoint": "5.000000",
+          "UserCommentLevel": 1,
+          "HotelDataType": 1,
+          "RoomID": 1328562,
+          "RoomName": "精选大床房"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 533888,
+          "NickName": "1891821****",
+          "IsNoRecommend": false,
+          "checkinDate": "20170609000000",
+          "CreateDate": "20170609204346",
+          "CommentId": 167051147,
+          "VipGrade": -1,
+          "ServicePoint": "5.000000",
+          "FaclPoint": "5.000000",
+          "RatPoint": "5.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 0,
+          "Content": "朋友过来玩，酒店离家很近，就在路边上还挺好找的。房间不错，性价比不错。服务员张建飞的态度很好，细致周到，很好。",
+          "ImageInfosList": [
+            {
+              "ImageItems": [
+                {
+                  "ImageType": 0,
+                  "Height": 0,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230k0h0000008svqj883B_C_550_412_Q50.jpg",
+                  "Width": 0
+                },
+                {
+                  "ImageType": 1,
+                  "Height": 150,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230k0h0000008svqj883B_W_280_280_R5_Q70.jpg",
+                  "Width": 150
+                },
+                {
+                  "ImageType": 2,
+                  "Height": 0,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230k0h0000008svqj883B_W_800_800_R5_Q70.jpg",
+                  "Width": 0
+                }
+              ],
+              "ImageCategory": 0,
+              "ImageID": 27476407,
+              "ImageTitle": ""
+            },
+            {
+              "ImageItems": [
+                {
+                  "ImageType": 0,
+                  "Height": 0,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/23010h0000008sw3z6A5A_C_550_412_Q50.jpg",
+                  "Width": 0
+                },
+                {
+                  "ImageType": 1,
+                  "Height": 150,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/23010h0000008sw3z6A5A_W_280_280_R5_Q70.jpg",
+                  "Width": 150
+                },
+                {
+                  "ImageType": 2,
+                  "Height": 0,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/23010h0000008sw3z6A5A_W_800_800_R5_Q70.jpg",
+                  "Width": 0
+                }
+              ],
+              "ImageCategory": 0,
+              "ImageID": 27476408,
+              "ImageTitle": ""
+            },
+            {
+              "ImageItems": [
+                {
+                  "ImageType": 0,
+                  "Height": 0,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230f0h0000008su0154FF_C_550_412_Q50.jpg",
+                  "Width": 0
+                },
+                {
+                  "ImageType": 1,
+                  "Height": 150,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230f0h0000008su0154FF_W_280_280_R5_Q70.jpg",
+                  "Width": 150
+                },
+                {
+                  "ImageType": 2,
+                  "Height": 0,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230f0h0000008su0154FF_W_800_800_R5_Q70.jpg",
+                  "Width": 0
+                }
+              ],
+              "ImageCategory": 0,
+              "ImageID": 27476409,
+              "ImageTitle": ""
+            },
+            {
+              "ImageItems": [
+                {
+                  "ImageType": 0,
+                  "Height": 0,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230l0h0000008tfw14BDA_C_550_412_Q50.jpg",
+                  "Width": 0
+                },
+                {
+                  "ImageType": 1,
+                  "Height": 150,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230l0h0000008tfw14BDA_W_280_280_R5_Q70.jpg",
+                  "Width": 150
+                },
+                {
+                  "ImageType": 2,
+                  "Height": 0,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230l0h0000008tfw14BDA_W_800_800_R5_Q70.jpg",
+                  "Width": 0
+                }
+              ],
+              "ImageCategory": 0,
+              "ImageID": 27476410,
+              "ImageTitle": ""
+            }
+          ],
+          "HotelName": "桔子酒店·精选(上海光大会展中心店)",
+          "Subject": "酒店点评",
+          "StatusRemark": "已认证",
+          "OrderId": 3784556133,
+          "SourceType": 1,
+          "CustPoint": "5.000000",
+          "IdentityText": "情侣出游",
+          "Status": 1,
+          "RaAtPoint": "5.000000",
+          "UserCommentLevel": 2,
+          "HotelDataType": 1,
+          "RoomID": 2072026,
+          "RoomName": "精选豪华大床房"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 533888,
+          "NickName": "KH_Fung",
+          "IsNoRecommend": false,
+          "checkinDate": "20170707000000",
+          "CreateDate": "20170708090833",
+          "CommentId": 171356450,
+          "VipGrade": -1,
+          "ServicePoint": "5.000000",
+          "FaclPoint": "5.000000",
+          "RatPoint": "5.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 0,
+          "Content": "酒店环境不错，房间有设计感，价格相比周边酒店不是太贵，性价比高。服务员很热情，入住第一天，行李有点多，前台小哥张建飞，主动帮我提行李至房间，还主动帮我手机连上房间的音乐系统，一次不错的体验，特别感谢这个小哥以及桔子水晶其他小伙伴给我一次入住愉快的体验，下次还会再来,早餐也是我喜欢的简餐，赞。",
+          "HotelName": "桔子酒店·精选(上海光大会展中心店)",
+          "Subject": "酒店点评",
+          "StatusRemark": "已认证",
+          "OrderId": 4019680606,
+          "SourceType": 1,
+          "CustPoint": "5.000000",
+          "IdentityText": "朋友出游",
+          "Status": 1,
+          "RaAtPoint": "5.000000",
+          "UserCommentLevel": 2,
+          "HotelDataType": 1,
+          "RoomID": 4246350,
+          "RoomName": "大床房"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 533888,
+          "NickName": "麽麽豆",
+          "IsNoRecommend": false,
+          "checkinDate": "20170711000000",
+          "CreateDate": "20170713114236",
+          "CommentId": 172186029,
+          "VipGrade": -1,
+          "ServicePoint": "4.000000",
+          "FaclPoint": "4.000000",
+          "RatPoint": "5.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 0,
+          "Content": "第一次住桔子酒店，有很多高科技的东西。觉得挺有意思的！开门费了些时间。进到床头发现枕头上面有一个巧克力，本来挺开心！但是那个巧克力，已经不知道被谁蹂躏过了。看起来很恶心。",
+          "HotelName": "桔子酒店·精选(上海光大会展中心店)",
+          "Subject": "酒店点评",
+          "StatusRemark": "已认证",
+          "OrderId": 4040335531,
+          "SourceType": 1,
+          "CustPoint": "4.300000",
+          "IdentityText": "朋友出游",
+          "Status": 1,
+          "RaAtPoint": "4.000000",
+          "UserCommentLevel": 1,
+          "HotelDataType": 1,
+          "RoomID": 4246350,
+          "RoomName": "大床房"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 533888,
+          "NickName": "1360****",
+          "IsNoRecommend": false,
+          "checkinDate": "20170712000000",
+          "CreateDate": "20170713165613",
+          "CommentId": 172230419,
+          "VipGrade": -1,
+          "ServicePoint": "5.000000",
+          "FaclPoint": "5.000000",
+          "RatPoint": "5.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 0,
+          "Content": "原先订购的酒店 大热天竟然没有热水洗澡 携程客服帮助安排的 朋友夜里二点钟到达 感觉不错 下一次还会去。",
+          "HotelName": "桔子酒店·精选(上海光大会展中心店)",
+          "Subject": "酒店点评",
+          "StatusRemark": "已认证",
+          "OrderId": 4051178612,
+          "SourceType": 1,
+          "CustPoint": "5.000000",
+          "IdentityText": "代人预订",
+          "Status": 1,
+          "RaAtPoint": "5.000000",
+          "UserCommentLevel": 1,
+          "HotelDataType": 1,
+          "RoomID": 1328564,
+          "RoomName": "商务大床房"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 533888,
+          "NickName": "_CFT010000001072****",
+          "IsNoRecommend": false,
+          "checkinDate": "20170527000000",
+          "CreateDate": "20170530201135",
+          "CommentId": 165501644,
+          "VipGrade": -1,
+          "ServicePoint": "5.000000",
+          "FaclPoint": "5.000000",
+          "RatPoint": "5.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 0,
+          "Content": "选了很久最终选了桔子，交通很方便，也很安静，前台接待很不错，房间很干净，卫生也好，房间没有怪味，真的是不错的体验，前台的张健飞和崔圆不错",
+          "ImageInfosList": [
+            {
+              "ImageItems": [
+                {
+                  "ImageType": 0,
+                  "Height": 1334,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/23010g0000008melk8F44_C_550_412_Q50.jpg",
+                  "Width": 1334
+                },
+                {
+                  "ImageType": 1,
+                  "Height": 300,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/23010g0000008melk8F44_W_280_280_R5_Q70.jpg",
+                  "Width": 300
+                },
+                {
+                  "ImageType": 2,
+                  "Height": 640,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/23010g0000008melk8F44_W_800_800_R5_Q70.jpg",
+                  "Width": 640
+                }
+              ],
+              "ImageCategory": 0,
+              "ImageID": 27007943,
+              "ImageTitle": ""
+            }
+          ],
+          "HotelName": "桔子酒店·精选(上海光大会展中心店)",
+          "Subject": "酒店点评",
+          "StatusRemark": "已认证",
+          "OrderId": 3757364418,
+          "SourceType": 1,
+          "CustPoint": "5.000000",
+          "IdentityText": "情侣出游",
+          "Status": 1,
+          "RaAtPoint": "5.000000",
+          "UserCommentLevel": 1,
+          "HotelDataType": 1,
+          "RoomID": 4246350,
+          "RoomName": "大床房"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 533888,
+          "NickName": "_M1382003****",
+          "IsNoRecommend": false,
+          "checkinDate": "20170709000000",
+          "CreateDate": "20170710082501",
+          "CommentId": 171622501,
+          "VipGrade": -1,
+          "ServicePoint": "5.000000",
+          "FaclPoint": "4.000000",
+          "RatPoint": "5.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 0,
+          "Content": "酒店旁边有个自行车棚子   十一点了还有人进出   有点吵   管理有点乱   入住时说早餐免费  第二天结账完了   领了餐券   又说不是免费的   哎",
+          "HotelName": "桔子酒店·精选(上海光大会展中心店)",
+          "Subject": "酒店点评",
+          "StatusRemark": "已认证",
+          "OrderId": 4009034183,
+          "SourceType": 1,
+          "CustPoint": "4.500000",
+          "IdentityText": "商务出差",
+          "Status": 1,
+          "RaAtPoint": "4.000000",
+          "UserCommentLevel": 1,
+          "HotelDataType": 1,
+          "RoomID": 1328566,
+          "RoomName": "榻榻米大床房"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 533888,
+          "NickName": "M43150****",
+          "IsNoRecommend": false,
+          "checkinDate": "20170503000000",
+          "CreateDate": "20170504080002",
+          "CommentId": 161281012,
+          "VipGrade": -1,
+          "ServicePoint": "5.000000",
+          "FaclPoint": "5.000000",
+          "RatPoint": "5.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 1,
+          "Content": "酒店服务很好，加入会员可以免费升级。床睡着舒服，窗帘自动且遮光效果很好，灯有多种模式，整体体验不错。",
+          "ImageInfosList": [
+            {
+              "ImageItems": [
+                {
+                  "ImageType": 0,
+                  "Height": 0,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230r0g0000007pyfrA021_C_550_412_Q50.jpg",
+                  "Width": 0
+                },
+                {
+                  "ImageType": 1,
+                  "Height": 150,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230r0g0000007pyfrA021_W_280_280_R5_Q70.jpg",
+                  "Width": 150
+                },
+                {
+                  "ImageType": 2,
+                  "Height": 0,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230r0g0000007pyfrA021_W_800_800_R5_Q70.jpg",
+                  "Width": 0
+                }
+              ],
+              "ImageCategory": 0,
+              "ImageID": 25424334,
+              "ImageTitle": ""
+            },
+            {
+              "ImageItems": [
+                {
+                  "ImageType": 0,
+                  "Height": 0,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230n0g0000007px8fCDE0_C_550_412_Q50.jpg",
+                  "Width": 0
+                },
+                {
+                  "ImageType": 1,
+                  "Height": 150,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230n0g0000007px8fCDE0_W_280_280_R5_Q70.jpg",
+                  "Width": 150
+                },
+                {
+                  "ImageType": 2,
+                  "Height": 0,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230n0g0000007px8fCDE0_W_800_800_R5_Q70.jpg",
+                  "Width": 0
+                }
+              ],
+              "ImageCategory": 0,
+              "ImageID": 25424335,
+              "ImageTitle": ""
+            },
+            {
+              "ImageItems": [
+                {
+                  "ImageType": 0,
+                  "Height": 0,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230m0g0000007pxtsCC48_C_550_412_Q50.jpg",
+                  "Width": 0
+                },
+                {
+                  "ImageType": 1,
+                  "Height": 150,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230m0g0000007pxtsCC48_W_280_280_R5_Q70.jpg",
+                  "Width": 150
+                },
+                {
+                  "ImageType": 2,
+                  "Height": 0,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230m0g0000007pxtsCC48_W_800_800_R5_Q70.jpg",
+                  "Width": 0
+                }
+              ],
+              "ImageCategory": 0,
+              "ImageID": 25424336,
+              "ImageTitle": ""
+            }
+          ],
+          "HotelName": "桔子酒店·精选(上海光大会展中心店)",
+          "Subject": "酒店点评",
+          "StatusRemark": "已认证",
+          "OrderId": 3625659834,
+          "SourceType": 1,
+          "CustPoint": "4.800000",
+          "IdentityText": "商务出差",
+          "Status": 1,
+          "RaAtPoint": "4.000000",
+          "UserCommentLevel": 1,
+          "HotelDataType": 1,
+          "RoomID": 4246350,
+          "RoomName": "大床房"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 533888,
+          "NickName": "陌陌ls0710",
+          "IsNoRecommend": false,
+          "checkinDate": "20170623000000",
+          "CreateDate": "20170629114731",
+          "CommentId": 169966093,
+          "VipGrade": -1,
+          "ServicePoint": "5.000000",
+          "FaclPoint": "5.000000",
+          "RatPoint": "5.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 0,
+          "Content": "在网上无意中找到的酒店  很棒很棒  出差基本都是入住桔子酒店 快捷酒店中算是很好的了 \n\n这家酒店位置还蛮好 近地铁口  \n\n靠田林路附近  田林路周围一整条购物街 吃喝玩乐全都有   \n\n酒店服务不错  前台史科帮忙免费升了级  态度很赞 \n\n就是早餐天天都是一个花样  连吃三天 有点腻了 \n\n其他都还不错的",
+          "HotelName": "桔子酒店·精选(上海光大会展中心店)",
+          "Subject": "＂桔子酒店·精选（上海光大会展中心店）＂点评",
+          "StatusRemark": "已认证",
+          "OrderId": 3927970215,
+          "SourceType": 1,
+          "CustPoint": "5.000000",
+          "IdentityText": "商务出差",
+          "Status": 1,
+          "RaAtPoint": "5.000000",
+          "UserCommentLevel": 1,
+          "HotelDataType": 1,
+          "RoomID": 1328566,
+          "RoomName": "榻榻米大床房"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 533888,
+          "NickName": "M45920****",
+          "IsNoRecommend": false,
+          "checkinDate": "20170704000000",
+          "CreateDate": "20170706195524",
+          "CommentId": 171066421,
+          "VipGrade": -1,
+          "ServicePoint": "5.000000",
+          "FaclPoint": "5.000000",
+          "RatPoint": "5.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 0,
+          "Content": "价格居中，服务很好，员工都特别有礼貌，住在房子里很安静，离地铁站两三百米，早餐可以在酒店外面的全家解决。",
+          "HotelName": "桔子酒店·精选(上海光大会展中心店)",
+          "Subject": "酒店点评",
+          "StatusRemark": "已认证",
+          "OrderId": 3993426994,
+          "SourceType": 1,
+          "CustPoint": "5.000000",
+          "IdentityText": "朋友出游",
+          "Status": 1,
+          "RaAtPoint": "5.000000",
+          "UserCommentLevel": 1,
+          "HotelDataType": 1,
+          "RoomID": 1328566,
+          "RoomName": "榻榻米大床房"
+        }
+      ]
+    }
+  ],
+  "ResultMessage": "",
+  "head": {
+    "sauth": "",
+    "ResponseStatus": {
+      "Ack": 0,
+      "Timestamp": "2017-07-15 01:55:21"
+    },
+    "cid": "32001054710029034073",
+    "auth": ""
+  },
+  "ServerSharedData": "最新预订：半小时前"
+}

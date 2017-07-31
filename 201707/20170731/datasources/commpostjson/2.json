@@ -1,0 +1,35 @@
+{
+	"ClientEnvironmentInfo": "{\"osver\":22,\"wifi\":\"1\",\"os\":\"android\",\"swidth\":\"360\",\"sheight\":\"592\"}",
+	"HotelId": 533888,
+	"HotelStar": 3,
+	"HotelType": 0,
+	"HotelUserInfo": {
+		"Flag": 1
+	},
+	"ModuleSourceType": 0,
+	"SearchInfo": {
+		"ControlBitMap": 6,
+		"GetTypeBitMap": 58,
+		"OperationType": 0,
+		"TopSetCommentIdList": ""
+	},
+	"ServerSharedData": "",
+	"ServiceVersion": 0,
+	"SortingInfo": {
+		"Direction": 1,
+		"OrderBy": 2,
+		"PageIndex": 1,
+		"PageSize": 0,
+		"isSelectedByUser": false
+	},
+	"head": {
+		"auth": "",
+		"cid": "32001054710029034073",
+		"ctok": "399ddabea5832ab6",
+		"cver": "705.000",
+		"lang": "01",
+		"sauth": "",
+		"sid": "8061",
+		"syscode": "32"
+	}
+}

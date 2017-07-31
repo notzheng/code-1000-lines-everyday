@@ -1,0 +1,438 @@
+{
+  "Result": 200,
+  "DataFlagBitMap": 0,
+  "ConfigSettingInfo": {
+    "NumberList": [
+      {
+        "ItemType": 1,
+        "ItemName": "全部",
+        "ItemValue": "0"
+      },
+      {
+        "ItemType": 2,
+        "ItemName": "推荐",
+        "ItemValue": "0"
+      },
+      {
+        "ItemType": 3,
+        "ItemName": "待改善",
+        "ItemValue": "0"
+      },
+      {
+        "ItemType": 4,
+        "ItemName": "有图",
+        "ItemValue": "0"
+      },
+      {
+        "ItemType": 5,
+        "ItemName": "同类人",
+        "ItemValue": "0"
+      }
+    ],
+    "HotelCommentStatGroupList": [
+      {}
+    ]
+  },
+  "GroupList": [
+    {
+      "PageTotal": 167,
+      "PageUrl": "",
+      "GroupType": 1,
+      "DataType": 4,
+      "RecordCount": 40,
+      "GroupTitle": "",
+      "PageIndex": 2,
+      "CommentDetailList": [
+        {
+          "HighlightPosition": "",
+          "HotelId": 451069,
+          "NickName": "_WeChat57555****",
+          "IsNoRecommend": false,
+          "checkinDate": "20170518000000",
+          "CreateDate": "20170521201320",
+          "CommentId": 164132907,
+          "VipGrade": -1,
+          "ServicePoint": "4.000000",
+          "FaclPoint": "3.000000",
+          "RatPoint": "3.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 0,
+          "Content": "订的房间没有窗户，携程上也没有明确的写没有窗户，有种被骗的感觉，谁会想住没有窗户的房间，也不知道这种房间存在的意义是什么。房间是复式，比较特别，但是楼梯又陡又窄，一不小心会很容易摔下楼梯。酒店旁边有卖进口商品的超市也有几家酒吧还不错。酒店走到环球金融中心之类的都要20分钟。",
+          "HotelName": "全季酒店(上海陆家嘴店)",
+          "Subject": "酒店点评",
+          "StatusRemark": "已认证",
+          "OrderId": 3355800636,
+          "SourceType": 1,
+          "CustPoint": "3.000000",
+          "IdentityText": "情侣出游",
+          "Status": 1,
+          "RaAtPoint": "2.000000",
+          "UserCommentLevel": 1,
+          "HotelDataType": 1,
+          "RoomID": 19523031,
+          "RoomName": "复式大床房"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 451069,
+          "NickName": "_M1345247****",
+          "IsNoRecommend": false,
+          "checkinDate": "20170623000000",
+          "CreateDate": "20170624202417",
+          "CommentId": 169290296,
+          "VipGrade": -1,
+          "ServicePoint": "3.000000",
+          "FaclPoint": "3.000000",
+          "RatPoint": "3.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 0,
+          "Content": "商务出差要求不高，各方面与预期差不多。开始的房间地面有股拖地没拖干净的腥臭味，后来要求前台换了一间没味的。其他的OK！",
+          "HotelName": "全季酒店(上海陆家嘴店)",
+          "Subject": "酒店点评",
+          "StatusRemark": "已认证",
+          "OrderId": 3948378348,
+          "SourceType": 1,
+          "CustPoint": "3.000000",
+          "IdentityText": "商务出差",
+          "Status": 1,
+          "RaAtPoint": "3.000000",
+          "UserCommentLevel": 1,
+          "HotelDataType": 1,
+          "RoomID": 807538,
+          "RoomName": "双床房"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 451069,
+          "NickName": "118011****",
+          "IsNoRecommend": false,
+          "checkinDate": "20170627000000",
+          "CreateDate": "20170628012113",
+          "CommentId": 169753447,
+          "VipGrade": -1,
+          "ServicePoint": "5.000000",
+          "FaclPoint": "3.000000",
+          "RatPoint": "5.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 0,
+          "Content": "服务还可以，前台不错，卫生干净。但房间布局很差，太拥挤，设施陈旧",
+          "HotelName": "全季酒店(上海陆家嘴店)",
+          "Subject": "酒店点评",
+          "StatusRemark": "已认证",
+          "OrderId": 3968096756,
+          "SourceType": 1,
+          "CustPoint": "4.000000",
+          "IdentityText": "代人预订",
+          "Status": 1,
+          "RaAtPoint": "3.000000",
+          "UserCommentLevel": 1,
+          "HotelDataType": 1,
+          "RoomID": 807533,
+          "RoomName": "高级大床房"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 451069,
+          "NickName": "118312****",
+          "IsNoRecommend": true,
+          "checkinDate": "20170517000000",
+          "CreateDate": "20170518043705",
+          "CommentId": 163559636,
+          "VipGrade": -1,
+          "ServicePoint": "1.000000",
+          "FaclPoint": "2.000000",
+          "RatPoint": "1.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 2,
+          "Content": "这是我这几年碰到的最差最差的酒店，楼下是酒吧，没完没了的吵到凌晨4点多…………。房间一点都不隔音……，楼上的凌晨四点多还在不断搬桌子………，都快疯了………，本想好好休息，搞得一晚上没睡觉………简直无药可救的酒店",
+          "ImageInfosList": [
+            {
+              "ImageItems": [
+                {
+                  "ImageType": 0,
+                  "Height": 0,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230q0g0000007z29491D1_C_550_412_Q50.jpg",
+                  "Width": 0
+                },
+                {
+                  "ImageType": 1,
+                  "Height": 0,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230q0g0000007z29491D1_W_280_280_R5_Q70.jpg",
+                  "Width": 0
+                },
+                {
+                  "ImageType": 2,
+                  "Height": 0,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/230q0g0000007z29491D1_W_800_800_R5_Q70.jpg",
+                  "Width": 0
+                }
+              ],
+              "ImageCategory": 0,
+              "ImageID": 26388217,
+              "ImageTitle": ""
+            }
+          ],
+          "HotelName": "全季酒店(上海陆家嘴店)",
+          "Subject": "酒店点评",
+          "StatusRemark": "已认证",
+          "OrderId": 3693764941,
+          "SourceType": 1,
+          "CustPoint": "1.300000",
+          "IdentityText": "商务出差",
+          "ReplyItemList": [
+            {
+              "Status": 1,
+              "Category": 1,
+              "Content": "以上是我忍无可忍，凌晨4点多发的评论………",
+              "CreateDate": "20170518141852",
+              "CommentId": 163619547
+            }
+          ],
+          "Status": 1,
+          "RaAtPoint": "1.000000",
+          "UserCommentLevel": 1,
+          "HotelDataType": 1,
+          "RoomID": 19523028,
+          "RoomName": "大床房（无窗）"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 451069,
+          "NickName": "E1055****",
+          "IsNoRecommend": false,
+          "checkinDate": "20170421000000",
+          "CreateDate": "20170423091523",
+          "CommentId": 159639929,
+          "VipGrade": -1,
+          "ServicePoint": "4.000000",
+          "FaclPoint": "3.000000",
+          "RatPoint": "3.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 0,
+          "Content": "酒店走廊的地毯一股霉味，房间卫生也一般，洗澡出来就是房间，没有门，所以跟朋友住会不方便，要了个有窗户的房间，可是靠马路，边上🈶️建筑工地，会吵。在房间可以看到啤酒开的大楼，出行方便，地理位置佳。酒店没有停车位，要停到前面的马路边，大概走10分钟，过一个红绿灯。",
+          "HotelName": "全季酒店(上海陆家嘴店)",
+          "Subject": "酒店点评",
+          "StatusRemark": "已认证",
+          "OrderId": 3565828715,
+          "SourceType": 1,
+          "CustPoint": "3.800000",
+          "IdentityText": "家庭亲子",
+          "Status": 1,
+          "RaAtPoint": "5.000000",
+          "UserCommentLevel": 1,
+          "HotelDataType": 1,
+          "RoomID": 807533,
+          "RoomName": "高级大床房"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 451069,
+          "NickName": "D61549****",
+          "IsNoRecommend": false,
+          "checkinDate": "20170510000000",
+          "CreateDate": "20170510222131",
+          "CommentId": 162256423,
+          "VipGrade": -1,
+          "ServicePoint": "5.000000",
+          "FaclPoint": "5.000000",
+          "RatPoint": "5.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 0,
+          "Content": "强烈推荐，出差定酒店，环境服务都不错,这个价格超值，地理位置也很好，很舒服，每次都来这里，下次还会再来的，",
+          "HotelName": "全季酒店(上海陆家嘴店)",
+          "Subject": "＂全季酒店（上海陆家嘴店）＂点评",
+          "StatusRemark": "已认证",
+          "OrderId": 3645268576,
+          "SourceType": 1,
+          "CustPoint": "5.000000",
+          "IdentityText": "商务出差",
+          "Status": 1,
+          "RaAtPoint": "5.000000",
+          "UserCommentLevel": 1,
+          "HotelDataType": 1,
+          "RoomID": 807533,
+          "RoomName": "高级大床房"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 451069,
+          "NickName": "M45559****",
+          "IsNoRecommend": false,
+          "checkinDate": "20170512000000",
+          "CreateDate": "20170516223112",
+          "CommentId": 163367970,
+          "VipGrade": -1,
+          "ServicePoint": "5.000000",
+          "FaclPoint": "5.000000",
+          "RatPoint": "5.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 0,
+          "Content": "挺干净 环境比较安静隔音比较好，楼下就是全家便利店和星巴克 很方便 离八佰伴很近 就是离地铁站有些远",
+          "HotelName": "全季酒店(上海陆家嘴店)",
+          "Subject": "酒店点评",
+          "StatusRemark": "已认证",
+          "OrderId": 3646602135,
+          "SourceType": 1,
+          "CustPoint": "5.000000",
+          "IdentityText": "商务出差",
+          "Status": 1,
+          "RaAtPoint": "5.000000",
+          "UserCommentLevel": 1,
+          "HotelDataType": 1,
+          "RoomID": 19523031,
+          "RoomName": "复式大床房"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 451069,
+          "NickName": "1861829****",
+          "IsNoRecommend": false,
+          "checkinDate": "20170509000000",
+          "CreateDate": "20170509140324",
+          "CommentId": 162067762,
+          "VipGrade": -1,
+          "ServicePoint": "5.000000",
+          "FaclPoint": "5.000000",
+          "RatPoint": "5.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 0,
+          "Content": "环境服务都不错，日式的设计，前台服务很 nice，帮助我们连好Wi-Fi，楼下就有星巴克、全家便利跟意大利餐厅很方便",
+          "HotelName": "全季酒店(上海陆家嘴店)",
+          "Subject": "酒店点评",
+          "StatusRemark": "已认证",
+          "OrderId": 3345249010,
+          "SourceType": 1,
+          "CustPoint": "5.000000",
+          "IdentityText": "商务出差",
+          "Status": 1,
+          "RaAtPoint": "5.000000",
+          "UserCommentLevel": 1,
+          "HotelDataType": 1,
+          "RoomID": 807533,
+          "RoomName": "高级大床房"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 451069,
+          "NickName": "_WeChat57734****",
+          "IsNoRecommend": false,
+          "checkinDate": "20170401000000",
+          "CreateDate": "20170405095637",
+          "CommentId": 157109480,
+          "VipGrade": -1,
+          "ServicePoint": "5.000000",
+          "FaclPoint": "5.000000",
+          "RatPoint": "5.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 0,
+          "Content": "环境不错，价格也合适，走路十五分钟到东方明珠，房间很舒适。",
+          "ImageInfosList": [
+            {
+              "ImageItems": [
+                {
+                  "ImageType": 0,
+                  "Height": 0,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/23020f0000007aekpA91B_C_550_412_Q50.jpg",
+                  "Width": 0
+                },
+                {
+                  "ImageType": 1,
+                  "Height": 150,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/23020f0000007aekpA91B_W_280_280_R5_Q70.jpg",
+                  "Width": 150
+                },
+                {
+                  "ImageType": 2,
+                  "Height": 0,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/23020f0000007aekpA91B_W_800_800_R5_Q70.jpg",
+                  "Width": 0
+                }
+              ],
+              "ImageCategory": 0,
+              "ImageID": 24329249,
+              "ImageTitle": ""
+            },
+            {
+              "ImageItems": [
+                {
+                  "ImageType": 0,
+                  "Height": 0,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/23030f0000007afb5968F_C_550_412_Q50.jpg",
+                  "Width": 0
+                },
+                {
+                  "ImageType": 1,
+                  "Height": 150,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/23030f0000007afb5968F_W_280_280_R5_Q70.jpg",
+                  "Width": 150
+                },
+                {
+                  "ImageType": 2,
+                  "Height": 0,
+                  "ImageUrl": "http://dimg04.c-ctrip.com/images/23030f0000007afb5968F_W_800_800_R5_Q70.jpg",
+                  "Width": 0
+                }
+              ],
+              "ImageCategory": 0,
+              "ImageID": 24329250,
+              "ImageTitle": ""
+            }
+          ],
+          "HotelName": "全季酒店(上海陆家嘴店)",
+          "Subject": "酒店点评",
+          "StatusRemark": "已认证",
+          "OrderId": 3388366642,
+          "SourceType": 1,
+          "CustPoint": "5.000000",
+          "IdentityText": "家庭亲子",
+          "Status": 1,
+          "RaAtPoint": "5.000000",
+          "UserCommentLevel": 1,
+          "HotelDataType": 1,
+          "RoomID": 19523028,
+          "RoomName": "大床房（无窗）"
+        },
+        {
+          "HighlightPosition": "",
+          "HotelId": 451069,
+          "NickName": "玲玲玲玉",
+          "IsNoRecommend": false,
+          "checkinDate": "20170328000000",
+          "CreateDate": "20170406081517",
+          "CommentId": 157267439,
+          "VipGrade": -1,
+          "ServicePoint": "5.000000",
+          "FaclPoint": "5.000000",
+          "RatPoint": "5.000000",
+          "FlagBitMap": 6,
+          "UsefulCount": 5,
+          "Content": "之前定的酒店因未做担保，超时被告知无房，夜里十点多临时订酒店，因为第二天开会，就找了个相对较近的酒店。这家全季非常满意无可挑剔，前台服务好，入住办理很快，无押金，退房更快，相当方便。楼下有家星巴克，吃了早餐。值得注意的是，这条马路斜对面还有一家全季，相距不到50米，开始走错去到了那边。",
+          "HotelName": "全季酒店(上海陆家嘴店)",
+          "Subject": "酒店点评",
+          "StatusRemark": "已认证",
+          "OrderId": 3436263918,
+          "SourceType": 1,
+          "CustPoint": "5.000000",
+          "IdentityText": "商务出差",
+          "Status": 1,
+          "RaAtPoint": "5.000000",
+          "UserCommentLevel": 2,
+          "HotelDataType": 1,
+          "RoomID": 807538,
+          "RoomName": "双床房"
+        }
+      ]
+    }
+  ],
+  "ResultMessage": "",
+  "head": {
+    "sauth": "",
+    "ResponseStatus": {
+      "Ack": 0,
+      "Timestamp": "2017-07-15 01:58:08"
+    },
+    "cid": "32001054710029034073",
+    "auth": ""
+  },
+  "ServerSharedData": "最新预订：3小时前"
+}
