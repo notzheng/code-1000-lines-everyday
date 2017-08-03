@@ -1,0 +1,52 @@
+{% include 'common/header.html' %}
+{% block head %}
+    <link rel="stylesheet" href="../../static/css/style.css">
+{% endblock %}
+
+<body class="sign-wrapper">
+
+<div class="container">
+
+    <div class="panel panel-default  center-block signin-panel">
+        <div class="panel-body">
+
+            <img src="../../static/image/signinlogo.png" width="128px" height="128px" alt="chui chui logo">
+            <p class="signin-panel-title">登录到锤锤评课</p>
+            <div class="input-group input-group-lg">
+                <span class="input-group-addon" id="sizing-addon1">
+                    <span class="glyphicon glyphicon-user" aria-hidden="true"></span>
+                </span>
+                <input type="text" class="form-control" placeholder="用户名" aria-describedby="sizing-addon1">
+            </div>
+            <p></p>
+
+            <div class="input-group input-group-lg">
+                <span class="input-group-addon" id="sizing-addon1">
+                    <span class="glyphicon glyphicon-lock" aria-hidden="true"></span>
+                </span>
+                <input type="text" class="form-control" placeholder="密码" aria-describedby="sizing-addon1">
+            </div>
+
+            <div class="checkbox signin-option">
+            <label class="pull-left">
+              <input  type="checkbox"> 下次自动登录
+            </label>
+                <a class="pull-right" href="#">忘记密码？</a>
+            </div>
+
+            <p class="clearfix"></p>
+                <p>
+  <button type="button" class=" btn btn-info btn-lg btn-block">登录</button>
+</p>
+            <hr>
+            <p>还没有账号？<a  href="#">立即注册</a></p>
+
+    </div>
+
+</div>
+
+
+{% include 'common/footer.html' %}
+
+</body>
+</html>

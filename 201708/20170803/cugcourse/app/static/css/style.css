@@ -1,0 +1,26 @@
+/* 登录&注册页面 */
+.sign-wrapper {
+    background-image: url(../image/signbackgroud.png);
+    background-image: -webkit-image-set(url(../image/signbackgroud.png) 1x, url(../image/signbackgroud@2x.png) 2x);
+    background-size: 100px;
+    background-repeat: repeat;
+}
+
+.signin-panel{
+    text-align: center;
+    width: 500px;
+    margin-top: 100px;
+    padding-left: 3%;
+    padding-right: 3%;
+    box-shadow: 0 9px 30px -6px rgba(0,0,0,.2), 0 18px 20px -10px rgba(0,0,0,.04), 0 18px 20px -10px rgba(0,0,0,.04), 0 10px 20px -10px rgba(0,0,0,.04)
+}
+
+.signin-panel-title{
+    padding-bottom: 30px;
+    font-size: 25px;
+}
+
+.signin-option{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}

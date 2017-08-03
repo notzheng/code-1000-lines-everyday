@@ -1,0 +1,23 @@
+# web framework
+Flask
+
+# database
+Flask-SQLAlchemy
+
+# form
+Flask-WTF
+
+# login
+flask-login
+
+# manager
+flask-script
+
+#
+flask-migrate
+
+# mail
+flask-mail
+
+# i18n
+flask-babel
